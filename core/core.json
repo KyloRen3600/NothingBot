@@ -1,0 +1,15 @@
+{
+  "name": "Core",
+  "description": "Core Systems of NothingBot",
+  "version": 1.0,
+
+  "commands": false,
+  "help_command": "help",
+  "help_description": "List of help commands.",
+
+  "script": "core.core",
+  "enabled": true,
+  "developer": "KyloRen3600",
+  "icon": "None",
+  "link": "None"
+}

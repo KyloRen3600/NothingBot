@@ -1,0 +1,15 @@
+{
+  "name": "Pierre Feuille Ciseaux",
+  "description": "Pierre Feuille Ciseaux",
+  "version": 1.0,
+
+  "commands": true,
+  "help_command": "pfc help",
+  "help_description": "Aide Pierre Feuille Ciseaux",
+
+  "script": "addons.scripts.pfc",
+  "enabled": true,
+  "developer": "KyloRen3600",
+  "icon": "https://github.com/KyloRen3600/KyloBot-Addons/blob/master/src/Icons/PFC.png",
+  "link": "None"
+}

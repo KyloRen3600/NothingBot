@@ -1,0 +1,15 @@
+{
+  "name": "YouTube",
+  "description": "Téléchargez des vidéos YouTube simplement !",
+  "version": 1.0,
+
+  "commands": true,
+  "help_command": "!YouTube <lien>",
+  "help_description": "Télécharger une vidéo",
+
+  "script": "addons.scripts.yt",
+  "enabled": true,
+  "developer": "KyloRen3600",
+  "icon": "https://github.com/KyloRen3600/KyloBot-Addons/blob/master/src/Icons/PFC.png",
+  "link": "None"
+}

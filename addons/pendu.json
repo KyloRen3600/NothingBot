@@ -1,0 +1,15 @@
+{
+  "name": "Pendu",
+  "description": "Pendu pour le NothingBot",
+  "version": 1.0,
+
+  "commands": true,
+  "help_command": "!pendu help",
+  "help_description": "Aide sur le Pendu",
+
+  "script": "addons.scripts.pendu",
+  "enabled": true,
+  "developer": "KyloRen3600",
+  "icon": "https://github.com/KyloRen3600/KyloBot-Addons/blob/master/src/Icons/PFC.png",
+  "link": "None"
+}
